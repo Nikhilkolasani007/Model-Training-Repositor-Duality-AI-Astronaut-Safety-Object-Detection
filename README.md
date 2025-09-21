@@ -144,12 +144,5 @@ It will output **Precision, Recall, mAP50, mAP50-95**.
 ---
 
 
-## ⚡ Notes
-- Keep repo size small → only include **weights/best.pt**, scripts, and configs.  
-- Full runs + raw dataset (~12GB) should go in **Google Drive**.  
-- This README will guide both judges and developers to reproduce results.
-
----
-
 ## 🙌 Team
 **Team 404 NOT FOUND** – Hack With Hyderabad  
