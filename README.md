@@ -25,8 +25,8 @@ Additionally, we built a **mini full-stack application** (Frontend + Backend + P
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/<your-username>/<repo-name>.git](https://github.com/Nikhilkolasani007/Model-Training-Repositor-Duality-AI-Astronaut-Safety-Object-Detection.git)
-   cd <repo-name>
+   git clone https://github.com/Nikhilkolasani007/Model-Training-Repositor-Duality-AI-Astronaut-Safety-Object-Detection.git
+   cd Model-Training-Repositor-Duality-AI-Astronaut-Safety-Object-Detection
    ```
 
 2. **Install Dependencies**
