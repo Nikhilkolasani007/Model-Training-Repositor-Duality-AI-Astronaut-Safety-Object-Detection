@@ -143,15 +143,6 @@ It will output **Precision, Recall, mAP50, mAP50-95**.
 
 ---
 
-## 📂 Additional Resources
-
-- **Google Drive (Full dataset + runs + large files):** [Insert Link Here]  
-- **Model Repo (this one):** [Insert GitHub Link]  
-- **Application Repo:** [Insert Link Here]  
-- **PPT (Hackathon Slides):** [Insert Link Here]  
-- **Hackathon Report (PDF/DOCX):** [Insert Link Here]  
-
----
 
 ## ⚡ Notes
 - Keep repo size small → only include **weights/best.pt**, scripts, and configs.  
